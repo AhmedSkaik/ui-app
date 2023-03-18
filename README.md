@@ -1,16 +1,3 @@
-# ui_momo_fashion
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/120342892/226104856-f56026e9-65b6-4d28-b94f-33e088252db0.png)
+![image](https://user-images.githubusercontent.com/120342892/226104866-7c14c17d-b050-4102-9fcc-5e2e889a228c.png)
+![image](https://user-images.githubusercontent.com/120342892/226104891-b1d9c010-78de-44b3-9fc0-f2ea1a49df33.png)
