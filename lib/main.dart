@@ -19,16 +19,17 @@ class  MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      initialRoute:'/main_Screan' ,
+      initialRoute:'/launch_Screan' ,
       routes: {
-        '/launch_Screan': (context)=> LaunchScrean(),
-        '/outBoarding_Screan': (context)=> OutBoardingScrean(),
-        '/login_Screan':(context)=> LoginScrean(),
-        '/catagories_Screan':(context)=> CatagoriesScrean(),
-        '/recogniser_Screan':(context)=> RecogniserScrean(),
-        '/product_Screan': (context) => ProductScrean(),
-        '/home_Screan': (context) => HomeScrean(),
-        '/main_Screan': (context) => BottomNavigationScrean(),
+        '/launch_Screan': (context)=>   const LaunchScrean() ,
+
+        '/outBoarding_Screan': (context)=> const OutBoardingScrean(),
+        '/login_Screan':(context)=> const LoginScrean(),
+        '/catagories_Screan':(context)=> const CatagoriesScrean(),
+        '/recogniser_Screan':(context)=> const RecogniserScrean(),
+        '/product_Screan': (context) => const ProductScrean(),
+        '/home_Screan': (context) => const HomeScrean(),
+        '/main_Screan': (context) => const BottomNavigationScrean(),
       },
     );
   }
